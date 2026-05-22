@@ -1,0 +1,8 @@
+{
+  "name": "Remix: YUEJIE BESPOKE",
+  "description": "佛山悦捷企业服务有限公司企业高定服务官网 - 墅式人居全案深化设计与顶级建材集成出口供应链领先品牌。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
